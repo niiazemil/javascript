@@ -11,6 +11,8 @@ if (!Object.is || true) {
 		}
 		
 
+        // ******************************
+        
 		function isItNaN(x) {
 			return x !== x
 		}
